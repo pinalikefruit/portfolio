@@ -1,6 +1,12 @@
-# About Piña
+# 👋 Hey there! I'm Piña 🍍
 
-Hey there friends, Nevi here, an independent blockchain security researcher currently active in audit contests on platforms such as Code4rena, Sherlock and Codehawks. Here, you can see some of my past findings and contest results.
+🔐 Blockchain Security Researcher | 💔 Love breaking things 
+
+📚 What I'm up to:
+- 🏆 Participating in exciting contests at:
+  - 🦅 [CodeHawks](https://www.codehawks.com)
+  - 🐺 [Code4rena](https://code4rena.com)
+  - 🕵️ [Sherlock](https://audits.sherlock.xyz/contests)
 
 
 # Summary
