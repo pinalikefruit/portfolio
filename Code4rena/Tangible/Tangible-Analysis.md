@@ -1,3 +1,0 @@
-# Tangible Analysis
-
-Report coming soon...

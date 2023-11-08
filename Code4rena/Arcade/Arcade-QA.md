@@ -1,3 +1,0 @@
-# Arcade QA Report
-
-Report coming soon...

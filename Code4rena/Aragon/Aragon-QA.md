@@ -1,3 +1,0 @@
-# Aragon Protocol QA Report
-
-Report coming soon...
