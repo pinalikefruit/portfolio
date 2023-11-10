@@ -37,4 +37,4 @@
 
 | Contest | High risk | Medium risk | Security report | 
 |:--:|:--:|:--:|:--:|
-| [Venus Prime](https://code4rena.com/contests/2023-09-venus-prime#top) | - | 1 | TBC |
+| [Venus Prime](https://code4rena.com/contests/2023-09-venus-prime#top) | - | 1 | [Source](https://github.com/pinalikefruit/Portfolio/blob/main/Code4rena/Venus-Report.md) |
