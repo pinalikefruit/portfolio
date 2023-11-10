@@ -13,7 +13,7 @@
 
 | Overall | High risk |  Medium risk | Audited contests |
 |:--:|:--:|:--:|:--:|
-| 8 High/Medium | 2 High | 6 Medium | 8 |  
+| 9 High/Medium | 2 High | 7 Medium | 8 |  
 
 # CodeHawks <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=22 height=22>
 
@@ -37,4 +37,4 @@
 
 | Contest | High risk | Medium risk | Security report | 
 |:--:|:--:|:--:|:--:|
-| [Venus Prime](https://code4rena.com/contests/2023-09-venus-prime#top) | - | - | TBC |
+| [Venus Prime](https://code4rena.com/contests/2023-09-venus-prime#top) | - | 1 | TBC |
