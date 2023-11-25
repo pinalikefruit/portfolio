@@ -13,13 +13,13 @@
 
 | Overall | High risk |  Medium risk | Audited contests |
 |:--:|:--:|:--:|:--:|
-| 9 High/Medium | 2 High | 7 Medium | 8 |  
+| 12 High/Medium | 2 High | 10 Medium | 8 |  
 
 # CodeHawks <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=22 height=22>
 
 | Contest | High risk | Medium risk | Security report | 
 |:--:|:--:|:--:|:--:|
-| [Steadefi](https://www.codehawks.com/contests/clo38mm260001la08daw5cbuf) | - | - | TBC |
+| [Steadefi](https://www.codehawks.com/contests/clo38mm260001la08daw5cbuf) | - | 3 | [Source](https://github.com/pinalikefruit/Portfolio/blob/main/CodeHawks/Steadefi-Report.md) |
 | [Beedle](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx) | 1 | 1 | [Source](https://github.com/pinalikefruit/Portfolio/blob/main/CodeHawks/Beedle-Report.md) | 
 | [Stablecoin CodeHawks](https://www.codehawks.com/contests/cljx3b9390009liqwuedkn0m0) | - | 4 | [Source](https://github.com/pinalikefruit/Portfolio/blob/main/CodeHawks/Stablecoin-Report.md) | 
 | [Sparkn](https://www.codehawks.com/contests/cllcnja1h0001lc08z7w0orxx) | - | - |  | 
