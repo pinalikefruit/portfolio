@@ -1,10 +1,10 @@
 # [Steadefi](https://www.codehawks.com/contests/clo38mm260001la08daw5cbuf)
 
-| Severity | Title | 
-|:--:|:---|
-| M-01 | After ProcessCompoundCancellation(), the status of vault is not reset to Open| 
-| M-02 | The vault can be reactivated after "Status.Closed"| 
-| M-03 | PnL is incorrectly configured for deposit LP| 
+| Severity | Title | Report Link |
+|:--:|:---| :---|
+| M-01 | After ProcessCompoundCancellation(), the status of vault is not reset to Open| _[Report-M01](https://www.codehawks.com/submissions/clo38mm260001la08daw5cbuf/246)_ |
+| M-02 | The vault can be reactivated after "Status.Closed"| _[Report-M02](https://www.codehawks.com/submissions/clo38mm260001la08daw5cbuf/216)_ |
+| M-03 | PnL is incorrectly configured for deposit LP| _[Report-M03](https://www.codehawks.com/submissions/clo38mm260001la08daw5cbuf/245)_ |
 
 
 ## [M-01] After ProcessCompoundCancellation(), the status of vault is not reset to Open

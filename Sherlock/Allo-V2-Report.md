@@ -1,8 +1,8 @@
 # [Allo V2](https://audits.sherlock.xyz/contests/109)
 
-| Severity | Title | 
-|:--:|:---|
-| H-01 | The `Anchor.sol` sets up the registry with an incorrect address| 
+| Severity | Title |  Report Link |
+|:--:|:---|:---|
+| H-01 | The `Anchor.sol` sets up the registry with an incorrect address| _[Report-H01](https://github.com/sherlock-audit/2023-09-Gitcoin-judging/issues/335)_ |
 
 
 ## [H-01] The `Anchor.sol` sets up the registry with an incorrect address

@@ -1,12 +1,12 @@
 # [CodeHawks Stablecoin Report](https://www.codehawks.com/contests/cljx3b9390009liqwuedkn0m0)
 
 ## Findings
-| Severity | Title | 
-|:--:|:---|
-| M-01| liquidate can be front-run| 
-| M-02| answeredInRound is Deprecated and TIMEOUT value is too large|
-| M-03| updatedAt can be zero |
-| M-04| TIMEOUT value is hardcoded|
+| Severity | Title | Report Link |
+|:--:|:---| :---|
+| M-01| liquidate can be front-run| _[Report-M01](https://www.codehawks.com/submissions/cljx3b9390009liqwuedkn0m0/785)_ |
+| M-02| answeredInRound is Deprecated and TIMEOUT value is too large|_[Report-M02](https://www.codehawks.com/submissions/cljx3b9390009liqwuedkn0m0/768)_ |
+| M-03| updatedAt can be zero |_[Report-M03](https://www.codehawks.com/submissions/cljx3b9390009liqwuedkn0m0/767)_ |
+| M-04| TIMEOUT value is hardcoded|_[Report-M04](https://www.codehawks.com/submissions/cljx3b9390009liqwuedkn0m0/763)_ |
 
 
 # [M-01] liquidate can be front-run

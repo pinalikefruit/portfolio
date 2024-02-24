@@ -1,10 +1,10 @@
 # [Beedle Report](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx)
 
 ## Findings
-| Severity | Title | 
-|:--:|:---|
-| H-01|Anyone can call Fees.sellProfits and perform sandwich attacks| 
-| M-01|transferOwnership should not be sent to address(0)| 
+| Severity | Title | Report Link |
+|:--:|:---| :---|
+| H-01|Anyone can call Fees.sellProfits and perform sandwich attacks| _[Report-H01](https://www.codehawks.com/submissions/clkbo1fa20009jr08nyyf9wbx/1556)_ |
+| M-01|transferOwnership should not be sent to address(0)| _[Report-M01](https://www.codehawks.com/finding/cllv3j4or001pw9blq2dlu33v)_ |
 
 
 ## [H-01] Anyone can call Fees.sellProfits and perform sandwich attacks

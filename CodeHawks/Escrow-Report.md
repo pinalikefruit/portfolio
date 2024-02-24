@@ -1,9 +1,9 @@
 # [CodeHawks Escrow Report](https://www.codehawks.com/report/cljyfxlc40003jq082s0wemya)
 
 ## Findings
-| Severity | Title | 
-|:--:|:---|
-| M-01|Prevent i_arbiter from being initialized with address (0)| 
+| Severity | Title | Report Link |
+|:--:|:---| :---|
+| M-01|Prevent i_arbiter from being initialized with address (0)| _[Report-M01](https://www.codehawks.com/finding/clm84908m02ihw9ru43z4hqk1)_ |
 
 
 ## [M-01] Prevent i_arbiter from being initialized with address (0)
