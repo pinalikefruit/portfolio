@@ -14,14 +14,13 @@
 
 | Overall | High risk |  Medium risk | Audited contests |
 |:--:|:--:|:--:|:--:|
-| 12 High/Medium | 2 High | 10 Medium | 9 |  
+| 15 High/Medium | 2 High | 13 Medium | 10 |  
 
 *Does not include Actual state
 
 ## Actual state
 | Project | Platform | Status |
 |:--|:--|:--:|
-| [Salty.io](https://github.com/code-423n4/2024-01-salty) | Code4rena | 📒 Judging |
 | [HydraDX](https://github.com/code-423n4/2024-02-hydradx) | Code4rena | 🔧 In Progress |
 
 
@@ -30,6 +29,7 @@
 
 | Contest | High risk | Medium risk | Security report | 
 |:--:|:--:|:--:|:--:|
+| [Salty.io](https://github.com/code-423n4/2024-01-salty) | - | 3 | Report not yet public  |
 | [Venus Prime](https://code4rena.com/contests/2023-09-venus-prime#top) | - | 1 | [Source](https://github.com/pinalikefruit/Portfolio/blob/main/Code4rena/Venus-Report.md) |
 
 
