@@ -21,7 +21,8 @@
 ## Actual state
 | Project | Platform | Status |
 |:--|:--|:--:|
-| [Revert Lend](https://code4rena.com/audits/2024-03-revert-lend) | Code4rena | 🔧 In Progress |
+| [xKeeper](https://audits.sherlock.xyz/contests/248) | Sherlock | ‍⚖️ Judging |
+| [Alchemix](https://audits.sherlock.xyz/contests/273) | Sherlock | ‍⏳ In progress |
 
 
 
