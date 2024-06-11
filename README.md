@@ -2,38 +2,40 @@
 
 🔐 Blockchain Security Researcher | 💔 Love breaking things 
 
-📚 What I'm up to:
+🕷️ What I'm up to:
 - 🏆 Participating in exciting contests at:
   
   - 🐺 [Code4rena](https://code4rena.com)
   - 🕵️ [Sherlock](https://audits.sherlock.xyz/contests)
   - 🦅 [CodeHawks](https://www.codehawks.com)
 
+🚀 What I'm building:
+
+- 🛠 Created a comprehensive repository on fuzz testing techniques and best practices. [Fuzzing Repository](https://github.com/pinalikefruit/fuzzing.git)
+- 🤖 Developed an automation project to streamline my setup process for participating in security review contests. [Setup Repository](https://github.com/pinalikefruit/setup-security-review)
 
 # Summary
 
-| Overall | High risk |  Medium risk | Audited contests |
+| Overall | High risk |  Medium risk |
+|:--:|:--:|:--:|
+| 15 High/Medium | 2 High | 13 Medium |
+
+# CodeHawks <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=22 height=22>
+
+| Contest | High risk | Medium risk | Security report | 
 |:--:|:--:|:--:|:--:|
-| 15 High/Medium | 2 High | 13 Medium | 11 |  
-
-*Does not include Actual state
-
-## Actual state
-| Project | Platform | Status |
-|:--|:--|:--:|
-| [xKeeper](https://audits.sherlock.xyz/contests/248) | Sherlock | ‍⚖️ Judging |
-| [Alchemix](https://audits.sherlock.xyz/contests/273) | Sherlock | ‍⏳ In progress |
-
-
+| [Escrow](https://www.codehawks.com/contests/cljyfxlc40003jq082s0wemya) | - | 1 | [Source](https://github.com/pinalikefruit/Portfolio/blob/main/CodeHawks/Escrow-Report.md) | 
+| [Stablecoin](https://www.codehawks.com/contests/cljx3b9390009liqwuedkn0m0) | - | 4 | [Source](https://github.com/pinalikefruit/Portfolio/blob/main/CodeHawks/Stablecoin-Report.md) | 
+| [Beedle](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx) | 1 | 1 | [Source](https://github.com/pinalikefruit/Portfolio/blob/main/CodeHawks/Beedle-Report.md) | 
+| [Steadefi](https://www.codehawks.com/contests/clo38mm260001la08daw5cbuf) | - | 3 | [Source](https://github.com/pinalikefruit/Portfolio/blob/main/CodeHawks/Steadefi-Report.md) |
 
 # Code4rena <img src="https://code4rena.com/_next/image?url=%2Flogos%2Fapple-touch-icon.png&w=128&q=75" width=22 height=22>
 
 | Contest | High risk | Medium risk | Security report | 
 |:--:|:--:|:--:|:--:|
-| [Salty.io](https://github.com/code-423n4/2024-01-salty) | - | 3 | Report not yet public  |
 | [Venus Prime](https://code4rena.com/contests/2023-09-venus-prime#top) | - | 1 | [Source](https://github.com/pinalikefruit/Portfolio/blob/main/Code4rena/Venus-Report.md) |
+| [Salty.io](https://github.com/code-423n4/2024-01-salty) | - | 3 | [Source](https://github.com/pinalikefruit/Portfolio/blob/main/Code4rena/Salty-Report.md) |
 
-_Other contest entries:  [HydraDX](https://github.com/code-423n4/2024-02-hydradx)._
 
 # Sherlock  <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.bf519c9e.svg" width=22 height=22>
 
@@ -41,18 +43,7 @@ _Other contest entries:  [HydraDX](https://github.com/code-423n4/2024-02-hydradx
 |:--:|:--:|:--:|:--:|
 | [Allo V2](https://audits.sherlock.xyz/contests/109) | 1 | - | [Source](https://github.com/pinalikefruit/Portfolio/blob/main/Sherlock/Allo-V2-Report.md) | 
 
-_Other contest entries: [Real Wagmi #2](https://audits.sherlock.xyz/contests/118), [DODO GSP](https://audits.sherlock.xyz/contests/135)_.
 
-# CodeHawks <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=22 height=22>
-
-| Contest | High risk | Medium risk | Security report | 
-|:--:|:--:|:--:|:--:|
-| [Steadefi](https://www.codehawks.com/contests/clo38mm260001la08daw5cbuf) | - | 3 | [Source](https://github.com/pinalikefruit/Portfolio/blob/main/CodeHawks/Steadefi-Report.md) |
-| [Beedle](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx) | 1 | 1 | [Source](https://github.com/pinalikefruit/Portfolio/blob/main/CodeHawks/Beedle-Report.md) | 
-| [Stablecoin CodeHawks](https://www.codehawks.com/contests/cljx3b9390009liqwuedkn0m0) | - | 4 | [Source](https://github.com/pinalikefruit/Portfolio/blob/main/CodeHawks/Stablecoin-Report.md) | 
-| [CodeHawks Escrow](https://www.codehawks.com/contests/cljyfxlc40003jq082s0wemya) | - | 1 | [Source](https://github.com/pinalikefruit/Portfolio/blob/main/CodeHawks/Escrow-Report.md) | 
-
-_Other contest entries: [Sparkn](https://www.codehawks.com/contests/cllcnja1h0001lc08z7w0orxx)_.
 
 
 
