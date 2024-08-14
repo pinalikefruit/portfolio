@@ -1,4 +1,4 @@
-# 👋 Smart Contract Audits and Findings by Piña 🍍
+# Smart Contract Audits and Findings by Piña 🍍
 
 🔐 Blockchain Security Researcher | 💔 Love breaking things 
 
@@ -14,12 +14,13 @@
 - 🛠 Created a comprehensive repository on fuzz testing techniques and best practices. [Fuzzing Repository](https://github.com/pinalikefruit/fuzzing.git)
 - 🤖 Developed an automation project to streamline my setup process for participating in security review contests. [Setup Repository](https://github.com/pinalikefruit/setup-security-review)
 
-# Audit Competitions Summary
+# Summary
 
 | Overall | High risk |  Medium risk |
 |:--:|:--:|:--:|
-
 | 20 High/Medium | 2 High | 18 Medium |
+
+# Audit Competitions
 
 | Date | Project | Severity  | Finding | 
 | :---: | :---: | --- | :---: |
