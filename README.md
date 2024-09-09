@@ -40,4 +40,8 @@
 |07-24 | [MagicSea](https://audits.sherlock.xyz/contests/437) | [Unclaimed Extra Rewards Stuck in Contract After setExtraRewarder Update](https://github.com/sherlock-audit/2024-06-magicsea-judging/issues/559) | Medium | 
 |07-24 | [MagicSea](https://audits.sherlock.xyz/contests/437) | [Miscalculation of avgDuration in MlumStaking::addToPosition Causes Extended Lock Periods](https://github.com/sherlock-audit/2024-06-magicsea-judging/issues/345) | Medium | 
 |07-24 | [MagicSea](https://audits.sherlock.xyz/contests/437) | [Fee on Transfer Tokens Miscalculation in MasterChef Contract](https://github.com/sherlock-audit/2024-06-magicsea-judging/issues/337) | Medium | 
-
+|08-24 | [Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle) | [Lack of Support for Fee-On-Transfer Tokens](https://codehawks.cyfrin.io/c/2024-08-tadle/s/914) | Medium | 
+|08-24 | [Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle) | [Missing Approval Causes Insufficient Allowance Error for ERC20 Withdrawals](https://codehawks.cyfrin.io/c/2024-08-tadle/s/842) | High | 
+|08-24 | [Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle) | [Incorrect Contract Approval Prevents WETH Withdrawals](https://codehawks.cyfrin.io/c/2024-08-tadle/s/802) | High | 
+|08-24 | [Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle) | [`SystemConfig::updateReferrerInfo` let the user auto Referrer itself](https://codehawks.cyfrin.io/c/2024-08-tadle/s/1140) | High | 
+|08-24 | [Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle) | [User Can Drain the Protocol's Funds](https://codehawks.cyfrin.io/c/2024-08-tadle/s/816) | High | 
