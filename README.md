@@ -14,7 +14,7 @@
 - 🛠 Created a comprehensive repository on fuzz testing techniques and best practices. [Fuzzing Repository](https://github.com/pinalikefruit/fuzzing.git)
 - 🤖 Developed an automation project to streamline my setup process for participating in security review contests. [Setup Repository](https://github.com/pinalikefruit/setup-security-review)
 
-#### 🔐 +20 High/Medium severity bugs found in public competitions
+#### 🔐 +25 High/Medium severity bugs found in public competitions
 
 # Audit Competitions
 
